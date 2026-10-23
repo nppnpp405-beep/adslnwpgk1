@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://adsblack.agency/sitemap.xml
